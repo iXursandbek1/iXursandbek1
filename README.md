@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xursandbek</h1>
 <h3 align="center">A passionate iOS developer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ixursandbek" alt="ixursandbek" /></a> </p>
-
 - 🔭 I’m currently working on **my own portfolio Project Quran APP**
 
 - 🌱 I’m currently learning **SwiftUI, Unit/UITesting and Firebase**
