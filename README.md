@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ixursandbek&label=Profile%20views&color=0e75b6&style=flat" alt="ixursandbek" /> </p>
 
-- 🔭 I’m currently working on **my own portfolio Project E-Codes**
+- 🔭 I’m currently working on **my own portfolio Projects**
 
 - 🌱 I’m currently learning **SwiftUI, Unit/UITesting and Firebase**
 
